@@ -4,3 +4,4 @@ langchain
 langchain_google_genai
 google
 python-dotenv
+langchain-community

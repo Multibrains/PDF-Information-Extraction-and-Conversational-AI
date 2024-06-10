@@ -5,4 +5,5 @@ langchain_google_genai
 google
 python-dotenv
 langchain-community
-faiss
+faiss-cpu
+

@@ -4,5 +4,3 @@ langchain
 langchain_google_genai
 google
 python-dotenv
-langchain_community.vectorstores
-langchain_community
